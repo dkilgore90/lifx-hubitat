@@ -1,0 +1,18 @@
+{
+  "packageName": "LIFX Enhanced Drivers",
+  "author": "David Kilgore",
+  "minimumHEVersion": "2.3.0",
+  "documentationLink": "https://github.com/dkilgore90/lifx-hubitat/blob/main/README.md",
+  "communityLink": "https://community.hubitat.com/t/beta-lifx-enhanced-drivers/92816",
+  "dateReleased": "2022-04-23",
+  "drivers": [
+    {
+      "id": "57bb4890-a921-4ba4-8498-7abbb56346da",
+      "name": "LIFX Multizone Enhanced",
+      "namespace": "dkilgore90",
+      "location": "https://raw.githubusercontent.com/dkilgore90/lifx-hubitat/main/lifx-mz.groovy",
+      "required": false,
+      "version": "0.0.1"
+    }
+  ]
+}
